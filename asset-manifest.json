@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/quote-app/static/css/main.1ea18732.css",
-    "main.js": "/quote-app/static/js/main.33d3d7ae.js",
-    "static/js/787.28cb0dcd.chunk.js": "/quote-app/static/js/787.28cb0dcd.chunk.js",
-    "index.html": "/quote-app/index.html",
-    "main.1ea18732.css.map": "/quote-app/static/css/main.1ea18732.css.map",
-    "main.33d3d7ae.js.map": "/quote-app/static/js/main.33d3d7ae.js.map",
-    "787.28cb0dcd.chunk.js.map": "/quote-app/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/quote_app/static/css/main.1ea18732.css",
+    "main.js": "/quote_app/static/js/main.f9072afc.js",
+    "static/js/787.28cb0dcd.chunk.js": "/quote_app/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/quote_app/index.html",
+    "main.1ea18732.css.map": "/quote_app/static/css/main.1ea18732.css.map",
+    "main.f9072afc.js.map": "/quote_app/static/js/main.f9072afc.js.map",
+    "787.28cb0dcd.chunk.js.map": "/quote_app/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1ea18732.css",
-    "static/js/main.33d3d7ae.js"
+    "static/js/main.f9072afc.js"
   ]
 }
